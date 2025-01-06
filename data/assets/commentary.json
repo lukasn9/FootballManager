@@ -1,0 +1,66 @@
+{
+    "attack": {
+        "home": [
+            "Home team building up an attack",
+            "Nice build-up play from the home side",
+            "Home team pressing forward",
+            "Promising movement from the home team",
+            "Home team controlling possession well"
+        ],
+        "away": [
+            "Away team on the counter",
+            "Away side building momentum",
+            "Good movement from the away team",
+            "Away team looking dangerous",
+            "Away side pressing high"
+        ]
+    },
+    "shot": {
+        "home": [
+            "Shot from the home team goes wide",
+            "Home team striker pulls the trigger but misses",
+            "Close attempt from the home side",
+            "Home team creating chances",
+            "Shot blocked by the defense"
+        ],
+        "away": [
+            "Away team with a shot that goes wide",
+            "Attempt from the away side misses the target",
+            "Away striker couldn't keep it on target",
+            "Shot from distance by the away team",
+            "Away team shot deflected wide"
+        ]
+    },
+    "shot_on_target": {
+        "home": [
+            "Great save by the away keeper!",
+            "Brilliant stop denies the home team",
+            "Home team forcing a save",
+            "Good attempt on target by the home side",
+            "Home team testing the keeper"
+        ],
+        "away": [
+            "Home keeper makes a crucial save",
+            "Away team with a strong shot on target",
+            "Good hands from the home keeper",
+            "Away team forcing a save",
+            "Keeper equal to the away team's effort"
+        ]
+    },
+    "goal": {
+        "home": [
+            "GOAL! Home team takes the lead!",
+            "Brilliant finish from the home team!",
+            "Home team finds the back of the net!",
+            "What a strike from the home team!",
+            "Home team celebrates as they score!"
+        ],
+        "away": [
+            "GOAL! Away team scores!",
+            "Away team breaks through and scores!",
+            "Clinical finish from the away side!",
+            "Away team celebrates a brilliant goal!",
+            "Away team finds the breakthrough!"
+        ]
+    }
+}
